@@ -1,0 +1,61 @@
+header {
+	position: fixed;
+	border-bottom: 2px solid black;
+	width: 100%;
+}
+
+#header-list{
+	margin-left: -40px;
+}
+
+.header-item {
+	display: inline;
+	padding-right: 25px;
+}
+
+#content {
+	padding-top: 100px;
+}
+
+.section-header {
+	color: red;
+}
+
+.section {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.organization {
+	font-family: helvetica;
+	font-weight: bold;
+
+}
+
+.gradYear {
+	color: #238E23;
+}
+
+#jobs {
+	background-color: yellow;
+	width: 500px;
+	float: left;
+
+
+}
+
+#education {
+	background-color: purple;
+	width: 500px;
+	
+#interests {
+	background-color: #ADDFFF;
+	width: 200px;
+	float: right;
+
+}
+
+a:hover {
+	color:#FF00FF;
+}
